@@ -5,7 +5,7 @@ Student Information
 Name: Lisakhanya Skosana
 Student No. ST10468622
 Module: Programming 1A (PROG5121)
-Assessment: Portfolio of Evidence (POE) Part 1 & 2
+Assessment: Portfolio of Evidence (POE) Part 1 ,2 & 3
 
 What is QuickChat?
 
